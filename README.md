@@ -96,8 +96,7 @@ A complete Azure infrastructure automation project demonstrating **Infrastructur
 * Designed secure Azure networking using **VNets, Subnets and NSGs**
 * Managed source code and infrastructure configuration using **Git & GitHub**
 
-📂 **Explore the Project:**
-[https://github.com/ShwetaChawla23/cloud-devops-projects.git](#)
+📂 **[View Project on GitHub →](https://github.com/ShwetaChawla23/cloud-devops-projects)**
 
 ---
 
@@ -251,7 +250,8 @@ Govt. National College, Sirsa
 [linkedin.com/in/shweta-chawla-a64714209](https://www.linkedin.com/in/shweta-chawla-a64714209/)
 
 🐙 **GitHub:**
-[https://github.com/ShwetaChawla23](#)
+🐙 **GitHub:**
+[https://github.com/ShwetaChawla23](https://github.com/ShwetaChawla23)
 
 ---
 
