@@ -251,7 +251,7 @@ Govt. National College, Sirsa
 [linkedin.com/in/shweta-chawla-a64714209](https://www.linkedin.com/in/shweta-chawla-a64714209/)
 
 🐙 **GitHub:**
-[github.com/YourGitHubUsername](#)
+[github.com/ShwetaChawla23](#)
 
 ---
 
