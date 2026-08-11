@@ -97,7 +97,7 @@ A complete Azure infrastructure automation project demonstrating **Infrastructur
 * Managed source code and infrastructure configuration using **Git & GitHub**
 
 📂 **Explore the Project:**
-[Azure Landing Zone Repository](#)
+[https://github.com/ShwetaChawla23/cloud-devops-projects.git](#)
 
 ---
 
@@ -251,7 +251,7 @@ Govt. National College, Sirsa
 [linkedin.com/in/shweta-chawla-a64714209](https://www.linkedin.com/in/shweta-chawla-a64714209/)
 
 🐙 **GitHub:**
-[github.com/ShwetaChawla23](#)
+[https://github.com/ShwetaChawla23](#)
 
 ---
 
